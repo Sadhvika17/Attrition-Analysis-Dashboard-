@@ -12,3 +12,4 @@ This Project Analyzes attrition patterns across multiple HR dimensions to help S
 The Dashboard enavbles HR Team and Business Leaders to quickly Identify risk areas and improve retention strategies.
 
 🖼️ **Dashboard Preview **
+<img width="1310" height="732" alt="image" src="https://github.com/user-attachments/assets/1faf6870-ed7e-4666-905a-86b33d2a29b0" />
